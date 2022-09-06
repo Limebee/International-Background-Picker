@@ -1,3 +1,3 @@
-# HoneyDew
+# Intenational Background Picker
 
-An app that allows baristas to track their orders and mark them complete when done
+An app that allows users to change the background to famous landmarks around the world.
