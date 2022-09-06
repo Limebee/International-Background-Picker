@@ -4,7 +4,7 @@ An app that allows users to change the background to famous landmarks around the
 
 <strong>How its Made</strong>: HTML, CSS, Javascript
 
-<img src="https://media.giphy.com/media/1B5UthRZHLjSB1sFFJ/giphy.gif">
+<img src="background.gif">
 
 # Optimizations
 
